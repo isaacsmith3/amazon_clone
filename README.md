@@ -1,3 +1,5 @@
+# amazon--clone
+
 # Installation Steps
 
 Note: Node Version 16 required
@@ -10,4 +12,3 @@ Run commands
 
 2) ```npm run dev```
 
-# amazon--clone
